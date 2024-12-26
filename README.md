@@ -15,6 +15,5 @@ Pennywise is an Android application that helps users manage their expenses effic
 Follow these steps to set up and run the project locally:
 
 1. **Clone the repository**:
-   ```bash
 https://github.com/vihaangautam/PennyWise.git
 
