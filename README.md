@@ -9,3 +9,12 @@ Pennywise is an Android application that helps users manage their expenses effic
 - **Data Visualization**: View your expenses through charts and graphs for better insights.
 - **Local Storage**: Uses Room Database for local data storage.
 - **User-friendly Interface**: Simple, intuitive, and responsive design with Material UI.
+
+## Installation
+
+Follow these steps to set up and run the project locally:
+
+1. **Clone the repository**:
+   ```bash
+https://github.com/vihaangautam/PennyWise.git
+
